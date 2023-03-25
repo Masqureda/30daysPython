@@ -40,3 +40,4 @@ print(new_string)  # Merhaba, Python!
 name = "Ahmet"
 age = 30
 print("Benim adım {} ve {} yaşındayım.".format(name, age))  # Benim adım Ahmet ve 30 yaşındayım.
+
