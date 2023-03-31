@@ -49,4 +49,4 @@ def square(x):
     """
     return x * x
   
-  ?square ile çağrılabilir
+  ?square ile çağrılabilir.
