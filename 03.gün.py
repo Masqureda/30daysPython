@@ -9,3 +9,4 @@ print('Division without the remainder: ', 7 // 2)   # gives without the floating
 print('Modulus: ', 3 % 2)                           # Gives the remainder
 print ('Division without the remainder: ', 7 // 3)
 print('Exponential: ', 3 ** 2)                     # it means 3 * 3
+ 
