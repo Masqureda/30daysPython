@@ -5,7 +5,7 @@ import re
 import sys
 
 
-n = int(input().strip())
+n = int(input("Enter a number :").strip())
 
 if n % 2 == 1:  
     print("Weird")
